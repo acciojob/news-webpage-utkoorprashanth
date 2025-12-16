@@ -33,6 +33,10 @@ body {
 /* Pictorial News */
 .pictorial-news-section {
     width: 25%;
+	background-color:white;
+	padding: 10px;
+	text-align:center;
+	border-radius:5px;
 }
 
 .pictorial-news-section img {
